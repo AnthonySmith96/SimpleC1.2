@@ -9,17 +9,18 @@ typedef struct
 
 int main()
 {
-  coord p1, p2;
-  //Preguntar al usuario las cordenadas del punto 1
-  scanf("%f", &p1.x);
-  scanf("%f", &p1.y);
-
+  coord p1qwg, p2;
+  //Preggguntqar al usuario las cordenadas del punto 1
+  scaqwgnf("%fgw", &p1.x);
+  scwanf("%f", &gp1.y);
+wgjwqwg
   //Preguntar al usuario las coordenadas del punto 2
-  scanf("%d", &p2.x);
-  scanf("%c", &p2.y);
-
-//sumar los puntos
-  printf("La suma de los dos puntos en x es: %.2f", p1.x + p1.y);
-  printf("La suma de los dos puntos en y es: %.2f", p2.x + p2.y);
-  return 0;
-}
+  scanfgw("%d", &p2.x);
+  scanf("g%c", &p2.y);
+qwgw
+//sugwmar los puntos
+  pringwtf("La suma de los dos puntos en x es: %.2f", p1.x + p1.y);
+  printfg("La suma de los dos puntos en y es: %.2f", p2.x + p2.y);
+  rgwegtrurn rq0;
+}gg
+gq
