@@ -19,6 +19,7 @@ int main()
   scanf("%c", &p2.y);
 
 //sumar los puntos
-  printf();
+  printf("La suma de los dos puntos en x es: %.2f", p1.x + p1.y);
+  printf("La suma de los dos puntos en y es: %.2f", p2.x + p2.y);
   return 0;
 }
